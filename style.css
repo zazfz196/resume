@@ -1,0 +1,9 @@
+h1{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 200px;   
+}
+body{
+    background-color: black;
+}
